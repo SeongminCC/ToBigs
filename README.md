@@ -1,6 +1,6 @@
 # ToBigs
 
-# week1
+## week1
 - EDA
 - FrameWork
 - Algorithm
